@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dynamic-table-using-react/static/css/main.f612f6a5.chunk.css",
+    "main.js": "/dynamic-table-using-react/static/js/main.bb0cb82a.chunk.js",
+    "main.js.map": "/dynamic-table-using-react/static/js/main.bb0cb82a.chunk.js.map",
+    "runtime~main.js": "/dynamic-table-using-react/static/js/runtime~main.2701e2ba.js",
+    "runtime~main.js.map": "/dynamic-table-using-react/static/js/runtime~main.2701e2ba.js.map",
+    "static/js/2.86a2265c.chunk.js": "/dynamic-table-using-react/static/js/2.86a2265c.chunk.js",
+    "static/js/2.86a2265c.chunk.js.map": "/dynamic-table-using-react/static/js/2.86a2265c.chunk.js.map",
+    "index.html": "/dynamic-table-using-react/index.html",
+    "precache-manifest.1624dc9ee161d20b267a36d132a641f7.js": "/dynamic-table-using-react/precache-manifest.1624dc9ee161d20b267a36d132a641f7.js",
+    "service-worker.js": "/dynamic-table-using-react/service-worker.js",
+    "static/css/main.f612f6a5.chunk.css.map": "/dynamic-table-using-react/static/css/main.f612f6a5.chunk.css.map"
+  }
+}
